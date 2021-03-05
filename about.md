@@ -5,16 +5,15 @@ He Zhidong
 Publications
 ---------
 <<<<<<< HEAD
-- Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "Topological Approach to Measure the Recoverability of Optical Networks", Optical Switching and Networking, to appear.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/Optical_Switching_Networking2021_Recoverablity.pdf))
-- He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. [[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RESS2020_Robustness_multimodal_freight_transport_networks.pdf))
-- He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2019_Prevalence_expansion_NIMFA.pdf))
-- He, Z. and P. Van Mieghem, 2019, "Optimal induced Spreading of SIS epidemics in Networks", IEEE Transactions on Control of Network Systems, Vol. 6, No. 4, December, pp. 1344-1353.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/IEEE_TCNS2018_Optimal_induced_SIS_spreading.pdf))
-- Sun, P., R. E. Kooij, Z. He and P. Van Mieghem, 2019, "Quantifying the Robustness of Network Controllability", 4th International Conference on System Reliability and Safety (ICSRS), 20-22 November, Rome, Italy.[[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/ICSRS2019_Robustness_Network_Controllability.pdf)
+- Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "Topological Approach to Measure the Recoverability of Optical Networks", Optical Switching and Networking, to appear.
+- He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. 
+- He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.
+- He, Z. and P. Van Mieghem, 2019, "Optimal induced Spreading of SIS epidemics in Networks", IEEE Transactions on Control of Network Systems, Vol. 6, No. 4, December, pp. 1344-1353.
+- Sun, P., R. E. Kooij, Z. He and P. Van Mieghem, 2019, "Quantifying the Robustness of Network Controllability", 4th International Conference on System Reliability and Safety (ICSRS), 20-22 November, Rome, Italy.
 - He, Z., Sun, P. and P. Van Mieghem, 2019, "Topological approach to measure network recoverability", 11th International Workshop on Resilient Networks Design and Modeling (RNDM 2019), 14-16 October, Nicosia, Cyprus.
-received the 2019 James P. G. Sterbenz best paper award.[[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RNDM2019_recoverability.pdf)
-- He, Z. and P. Van Mieghem, 2018, "The fastest spreader in SIS epidemics on networks", European Physical Journal B, section "Statistical and Nonlinear Physics", Vol. 91, article 77, May. [[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/EPJb2018_fastest_SIS_spreader.pdf)
-- He, Z. and P. Van Mieghem, 2018, "The spreading time in SIS epidemics on networks", Physica A, Vol. 494, p. 317-330.[[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2017_SIS_spreading_time_networks.pdf)
-=======
+received the 2019 James P. G. Sterbenz best paper award.
+- He, Z. and P. Van Mieghem, 2018, "The fastest spreader in SIS epidemics on networks", European Physical Journal B, section "Statistical and Nonlinear Physics", Vol. 91, article 77, May. 
+- He, Z. and P. Van Mieghem, 2018, "The spreading time in SIS epidemics on networks", Physica A, Vol. 494, p. 317-330.
 - Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "Topological Approach to Measure the Recoverability of Optical Networks", Optical Switching and Networking, to appear.
 - He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. 
 - He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.
