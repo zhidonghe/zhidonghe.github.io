@@ -34,22 +34,22 @@ received the 2019 James P. G. Sterbenz best paper award.
 **Education**
 
 2015-2020 
-:   **PhD, Electrical Engineering, Mathematics and Computer Science**; Delft University of Technology (TUDelft). Delft, The Netherlands
+:   PhD, Electrical Engineering, Mathematics and Computer Science; Delft University of Technology (TUDelft). Delft, The Netherlands
 
     *Dissertation: Performance Analysis and Optimization of Complex Networks: Efficiency and Robustness*
 
 2011-2014
-:   **MSc, Control Science and Engineering**; Zhejiang University (ZJU). Hangzhou, China
+:   MSc, Control Science and Engineering; Zhejiang University (ZJU). Hangzhou, China
 
     *Thesis: Implementation and Optimization of Routing and Communication Scheduling for Industrial Wireless Networks*
 
 2007-2011
-:   **BSc, Automation**; Zhejiang University (ZJU). Shanghai Jiao Tong University (SJTU). Shanghai, China
+:   BSc, Automation; Zhejiang University (ZJU). Shanghai Jiao Tong University (SJTU). Shanghai, China
 
     *Thesis: Distributed Power Control in Wireless Networks for Industrial Real-time Monitoring*
 
 2007-2011
-:   **BAc, English**; Shanghai Jiao Tong University (SJTU). Shanghai, China
+:   BA, English; Shanghai Jiao Tong University (SJTU). Shanghai, China
 
     *Thesis: Analysis on Deviation in Allen Poe’s Poems*
 
