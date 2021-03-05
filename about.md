@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About
+title: "He Zhidong"
+date:   2021-03-10 22:32:34 +0700
 permalink: /about/
 ---
 
-He Zhidong
 
-* * *
-* * *
-
-Publications
-***
+**Publications**
+-------------------------
 - Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "[Topological Approach to Measure the Recoverability of Optical Networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/Optical_Switching_Networking2021_Recoverablity.pdf)", Optical Switching and Networking, to appear.
 - He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. [[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RESS2020_Robustness_multimodal_freight_transport_networks.pdf))
 - He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2019_Prevalence_expansion_NIMFA.pdf))
@@ -25,11 +22,12 @@ received the 2019 James P. G. Sterbenz best paper award.[[download]](https://www
 - 何之栋, 陆卫军, 钟晨. 无线 HART 安全技术的研究与设计. 工业控制计算机, 2014(9):1-4.
 - 何之栋, 裘坤, 钟晨. 工业控制系统的信息安全问题研究. 工业控制计算机, 2013, 26(10):1-4.
 - 王海凤, 何之栋, 黄文君. 故障安全通信系统的研究与设计. 电子技术应用,2014, 01:115-118.
-* * *
-* * *
-Education
-***
 
+
+
+
+**Education**
+-------------------------
 2015-2020 
 :   **PhD, Electrical Engineering, Mathematics and Computer Science**; Delft University of Technology (TUDelft). Delft, The Netherlands
 
@@ -49,10 +47,12 @@ Education
 :   **BAc, English**; Shanghai Jiao Tong University (SJTU). Shanghai, China
 
     *Thesis: Analysis on Deviation in Allen Poe’s Poems*
-* * *
-* * *
-Experience
-***
+
+
+
+
+**Experience**
+-------------------------
 
 
 
