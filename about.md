@@ -6,9 +6,10 @@ permalink: /about/
 ---
 
 
-**Publications**
-
 -------------------------
+
+
+**Publications**
 
 - Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "[Topological Approach to Measure the Recoverability of Optical Networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/Optical_Switching_Networking2021_Recoverablity.pdf)", Optical Switching and Networking, to appear.
 - He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "[Robustness assessment of multimodal freight transport networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RESS2020_Robustness_multimodal_freight_transport_networks.pdf)", Reliability Engineering and System Safety, vol. 207, March, p. 107315. 
@@ -27,10 +28,10 @@ received the 2019 James P. G. Sterbenz best paper award.
 
 
 
+-------------------------
+
 
 **Education**
-
--------------------------
 
 2015-2020 
 :   **PhD, Electrical Engineering, Mathematics and Computer Science**; Delft University of Technology (TUDelft). Delft, The Netherlands
@@ -53,11 +54,12 @@ received the 2019 James P. G. Sterbenz best paper award.
     *Thesis: Analysis on Deviation in Allen Poe’s Poems*
 
 
+-------------------------
 
 
 **Experience**
 
--------------------------
+
 
 
 
