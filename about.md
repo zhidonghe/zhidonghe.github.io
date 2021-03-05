@@ -9,7 +9,7 @@ He Zhidong
 
 
 Publications
-
+---------
 - Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "Topological Approach to Measure the Recoverability of Optical Networks", Optical Switching and Networking, to appear.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/Optical_Switching_Networking2021_Recoverablity.pdf))
 - He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. [[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RESS2020_Robustness_multimodal_freight_transport_networks.pdf))
 - He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.[[download]]([url](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2019_Prevalence_expansion_NIMFA.pdf))
@@ -19,7 +19,7 @@ Publications
 received the 2019 James P. G. Sterbenz best paper award.[[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/RNDM2019_recoverability.pdf)
 - He, Z. and P. Van Mieghem, 2018, "The fastest spreader in SIS epidemics on networks", European Physical Journal B, section "Statistical and Nonlinear Physics", Vol. 91, article 77, May. [[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/EPJb2018_fastest_SIS_spreader.pdf)
 - He, Z. and P. Van Mieghem, 2018, "The spreading time in SIS epidemics on networks", Physica A, Vol. 494, p. 317-330.[[download]](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2017_SIS_spreading_time_networks.pdf)
-
+=======
 - Sun, P., Z. He, R. E. Kooij and P. Van Mieghem, 2021, "Topological Approach to Measure the Recoverability of Optical Networks", Optical Switching and Networking, to appear.
 - He, Z., K. Navneeta, W. van Dam, and P. Van Mieghem, 2021, "Robustness assessment of multimodal freight transport networks ", Reliability Engineering and System Safety, vol. 207, March, p. 107315. 
 - He, Z. and P. Van Mieghem, 2019, "Prevalence expansion in NIMFA", Physica A, Vol. 540, p. 123220.
@@ -37,7 +37,6 @@ received the 2019 James P. G. Sterbenz best paper award.
 
 Education
 ---------
-
 
 2015-2020 
 :   **PhD, Electrical Engineering, Mathematics and Computer Science**; Delft University of Technology (TUDelft). Delft, The Netherlands
