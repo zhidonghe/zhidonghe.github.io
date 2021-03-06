@@ -23,8 +23,8 @@ social:
       link: "#"
     - icon: fa-stack-exchange
       link: "#"
-    - icon: fa-mail-reply
-      link: window.open('mailto:sgyyhzd@hotmail.com')
+    - icon: fa-mailbox
+      link: "#"
 
 share:
   twitter_username: github.io
