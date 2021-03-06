@@ -44,7 +44,7 @@ received the 2019 James P. G. Sterbenz best paper award.
     *Thesis: Implementation and Optimization of Routing and Communication Scheduling for Industrial Wireless Networks*
 
 2007-2011
-:   BSc, Automation; Zhejiang University (ZJU). Shanghai Jiao Tong University (SJTU). Shanghai, China
+:   BSc, Automation; Shanghai Jiao Tong University (SJTU). Shanghai, China
 
     *Thesis: Distributed Power Control in Wireless Networks for Industrial Real-time Monitoring*
 
