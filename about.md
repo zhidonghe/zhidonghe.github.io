@@ -36,7 +36,7 @@ received the 2019 James P. G. Sterbenz best paper award.
 2015-2020 
 :   PhD, Electrical Engineering, Mathematics and Computer Science; Delft University of Technology (TUDelft). Delft, The Netherlands
 
-    *Dissertation: Performance Analysis and Optimization of Complex Networks: Efficiency and Robustness*
+    *Dissertation: [Performance Analysis and Optimization of Complex Networks: Efficiency and Robustness](https://repository.tudelft.nl/islandora/object/uuid:a9ae2b62-0cf8-4cf3-86af-abd33bc99080?collection=research)*
 
 2011-2014
 :   MSc, Control Science and Engineering; Zhejiang University (ZJU). Hangzhou, China
